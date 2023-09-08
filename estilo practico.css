@@ -1,0 +1,28 @@
+.barra{
+    background-color: #c7c8ca;
+}
+.flexContainer{
+    display: flex;
+    justify-content: center;
+}
+.textContainer{
+    display:flex;
+    flex-direction: column;
+    margin-left: 10px;
+    align-items: center;
+}
+h2{
+    font-weight: 400;
+}
+button {
+    background-color:#18a53b; 
+    border: none;
+    border-radius: 5px;
+    color: white;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    
+}
+button:hover {
+    background-color: #404040;
+}
