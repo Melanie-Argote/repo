@@ -1,2 +1,2 @@
 # Trabajo Practico Boostrap
-Melanie Argote Leg: 477714
+Melanie Argote Legajo: 477714
